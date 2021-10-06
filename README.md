@@ -24,6 +24,7 @@ There are 14 columns in the dataset, where the patient_id column is a unique and
 
 Column Description
 
+```
 slope_of_peak_exercise_st_segment (type: int): the slope of the peak exercise ST(stress test) segment, an electrocardiography read out indicating quality of blood flow to the heart. The ST segment shift relative to exercise-induced increments in heart rate, the ST/heart rate slope (ST/HR slope), has been proposed as a more accurate ECG criterion for diagnosing significant coronary artery disease (CAD).
 0: Upsloping: better heart rate with excercise (uncommon)
 1: Flatsloping: minimal change (typical healthy heart)
@@ -56,6 +57,7 @@ sex (type: binary): 0: female, 1: male
 age (type: int): age in years
 max_heart_rate_achieved (type: int): maximum heart rate achieved (beats per minute)
 exercise_induced_angina (type: binary): exercise-induced chest pain (0: False, 1: True)
+```
 
 ```
 ![](https://komarev.com/ghpvc/?username=helloRajat&label=PROFILE+VIEWS)
