@@ -59,7 +59,13 @@ sex (type: binary): 0: female, 1: male
 age (type: int): age in years
 max_heart_rate_achieved (type: int): maximum heart rate achieved (beats per minute)
 exercise_induced_angina (type: binary): exercise-induced chest pain (0: False, 1: True)
+
+Credit - 
+https://machinelearningmastery.com/
+https://stackoverflow.com/
+https://kaggle.com
 ```
+
 
 ```
 ![](https://komarev.com/ghpvc/?username=helloRajat&label=PROFILE+VIEWS)
