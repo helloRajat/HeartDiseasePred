@@ -4,5 +4,5 @@
 
 
 ```
-![](https://komarev.com/ghpvc/?username=helloRajat)
+![](https://komarev.com/ghpvc/?username=helloRajat&label=PROFILE+VIEWS)
 ```
